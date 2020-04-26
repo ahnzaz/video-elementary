@@ -1,0 +1,19 @@
+{
+  "name": "video-elementary",
+  "version": "1.0.0",
+  "description": "Native HTMLVideoElement practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahnzaz/video-elementary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahnzaz/video-elementary/issues"
+  },
+  "homepage": "https://github.com/ahnzaz/video-elementary#readme"
+}
