@@ -39,7 +39,7 @@ export const videoElementEventsMap: (keyof HTMLVideoElementEventMap)[] = [
     "load",
     "loadeddata",
     "loadedmetadata",
-    "loadend",
+    // "loadend",
     "loadstart",
     "lostpointercapture",
     "mousedown",
